@@ -5,7 +5,7 @@ The installation of Python, development tools, and programming and data science 
 ## Steps
 
 1. **Compile the Program**:
-   bash/Shell Command
+   ```bash/Shell Command
    gcc installer.c -o installer
    
 3. **Run the Program**:

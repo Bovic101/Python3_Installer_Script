@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Starting installation process for Linux...\n");
+    printf("Installation process for Linux initiated...\n");
 
     // Step 1: Update package manager
     printf("Updating package manager...\n");
@@ -30,7 +30,7 @@ int main()
         "yarn",        // Package manager for Node.js
         "docker.io",   // Containerization platform
         "vim",         // Text editor
-        "emacs",       // Alternative text editor
+        "emacs",
         "wget"         // File retrieval utility
     };
 
@@ -70,6 +70,6 @@ int main()
         return 1;
     }
 
-    printf("Installation process completed successfully.\n");
+    printf("Installation process completed.\n");
     return 0;
 }

@@ -17,9 +17,9 @@ The installation of Python, development tools, and programming and data science 
    - Check Python version:
         ```bash/Shell Command
      python3 --version
-   - Test a library (e.g., NumPy):
+   - Test a library (e.g matplotlib):
         ```bash/Shell Command
-     python3 -c "import numpy; print(numpy.__version__)"
+     python3 -c "import <library_name>; print(Library_name.__version__)"
      
 ## Installed Tools and Libraries
 

@@ -5,20 +5,20 @@ The installation of Python, development tools, and programming and data science 
 ## Steps
 
 1. **Compile the Program**:
-   bash/Shell Command
+   ```bash/Shell Command
    gcc installer.c -o installer
    
 3. **Run the Program**:
-   bash/Shell Command
+   ```bash/Shell Command
    ./installer
-   ```
+   
 
 4. **Verify Installation**:
    - Check Python version:
-        bash/Shell Command
+        ```bash/Shell Command
      python3 --version
    - Test a library (e.g., NumPy):
-        bash/Shell Command
+        ```bash/Shell Command
      python3 -c "import numpy; print(numpy.__version__)"
      
 ## Installed Tools and Libraries
